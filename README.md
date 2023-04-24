@@ -8,8 +8,7 @@
 <b>Syntax: </b>
 ptr = (cast-type*)calloc(n, element-size);<br>
 <br>
-![calloc-function-in-c](https://user-images.githubusercontent.com/124968304/234010199-1b424825-e622-413e-825f-2f86ad1c3c02.png)
-
+![WhatsApp Image 2023-04-24 at 18 58 14](https://user-images.githubusercontent.com/124968304/234010708-7a93c8d9-ac6d-4478-be43-fe20b3cf8f0a.jpg)
 <br>
 <b><ins> Output </b></ins>
 <img width="944" alt="calloc" src="https://user-images.githubusercontent.com/124968304/234009821-f2f74902-ea5a-4030-8066-9da14b710f60.png">
