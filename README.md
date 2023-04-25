@@ -8,7 +8,9 @@
 <b>Syntax: </b>
 ptr = (cast-type*)calloc(n, element-size);<br>
 <br>
-![WhatsApp Image 2023-04-24 at 18 58 14](https://user-images.githubusercontent.com/124968304/234173639-9bdb19bf-67a7-4dc8-9aa8-68cae709ed7b.jpg)
+![image](https://user-images.githubusercontent.com/124968304/234173813-618df4a9-eb30-40d2-896a-5ba68f6af0f7.png)
+
+
 
 
 
