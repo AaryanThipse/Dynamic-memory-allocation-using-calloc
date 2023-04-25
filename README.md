@@ -7,12 +7,13 @@
 <br>
 <b>Syntax: </b>
 ptr = (cast-type*)calloc(n, element-size);<br>
-![image](https://user-images.githubusercontent.com/124968304/234175881-ddfe2caa-d05c-4ee1-9203-3316660a5f93.png)
 
 
 
 
 
+
+![calloc-function-in-c](https://user-images.githubusercontent.com/124968304/234176100-ee73cc03-f1ee-4b0c-a8b0-56bc249333fc.png)
 
 
 
