@@ -7,7 +7,8 @@
 <br>
 <b>Syntax: </b>
 ptr = (cast-type*)calloc(n, element-size);<br>
-<br>
+![image](https://user-images.githubusercontent.com/124968304/234175881-ddfe2caa-d05c-4ee1-9203-3316660a5f93.png)
+
 
 
 
